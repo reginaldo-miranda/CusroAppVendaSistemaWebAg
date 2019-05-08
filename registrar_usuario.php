@@ -23,6 +23,7 @@ if(!is_null($usuarioBean->getUsu_usuario()) && !is_null($usuarioBean->getUsu_sen
     array_push($resposta["usuario_array"],$user);
     $resposta["sucesso"] = 1;
     $resposta["mensagem"] = "Dados retornado com sucesso";
+    // teste
     
     
     
