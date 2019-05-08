@@ -11,7 +11,7 @@ function register($class) {
     }
 }
 
-spl_autoload_register(register); teste
+spl_autoload_register(register); 
 ?>
 
 
